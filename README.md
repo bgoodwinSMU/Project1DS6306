@@ -18,10 +18,4 @@ Budwiesier asked the following questions of us:
 8) Use KNN to classify beers as IPAs or Ales, and we used a Naive Bayes classifer to determine this relationship as well
 9) We also examined a relationship between IBU and style and determined for specific styles, there is quite an association.
 
-
-
-
-
-
-
-You can assume that your audience is the CEO and CFO of Budweiser (your client) and that they only have had one class in statistics and have indicated that you cannot take more than 7 minutes of their time. 20% of your grade will be based on the presentation. 
+We are confident in the validity of our analysis and hope that Budwiesier determines an appropriate course of action to take based on the work in this repository. 
