@@ -54,4 +54,6 @@ The highest IBU beer comes from Oregon, and the highest ABV comes from Colorado.
 
 There is a clear relationship between IBU and ABV, and there is also a clear relationship between IBU and Style.
 
+In conclusion, we have evaluated the beer and brewery datasets, fixed some missing data, computed some summary statistics, found minimums and maximums, and averages conerning the beers.  We also looked at relationships between variables, and then we finished by creating classifiers.  
+
 
