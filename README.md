@@ -18,4 +18,18 @@ Budwiesier asked the following questions of us:
 8) Use KNN to classify beers as IPAs or Ales, and we used a Naive Bayes classifer to determine this relationship as well
 9) We also examined a relationship between IBU and style and determined for specific styles, there is quite an association.
 
-We are confident in the validity of our analysis and hope that Budwiesier determines an appropriate course of action to take based on the work in this repository. 
+YouTube link: https://youtu.be/N48Fv-QEUrQ
+
+We are confident in the validity of our analysis and hope that Budwiesier determines an appropriate course of action to take based on the work in this repository.
+
+Important variables are brewbystate, beerdat and brewerydat
+
+General conclusions: Full conclusion are contained in Project1.rmd, but below are general conclusions:
+
+In total there are 2410 unique beers, and 558 breweries, containing 100 unique styles.  
+
+KNN and Naive bayes do an excellent job of classifying IPAs and Ales
+
+There is a clear relationship between IBU and ABV, and there is also a clear relationship between IBU and Style.
+
+
