@@ -197,6 +197,17 @@ brewByState %>% ggplot(aes(y=reorder(State, n), x= n, fill = "#C8102E")) +
   labs(title = "Breweries by State in the USA", 
        subtitle = "Budweiser Consultation",
        x = "Number of Breweries", y = "State")
+       
+#############################
+#look at the first six states
+head(brewByState$n)
+#############################
+
+#############################
+#look at the last six states
+tail(brewByState$n)
+#############################
+       
 ```
 
 ```{r}
