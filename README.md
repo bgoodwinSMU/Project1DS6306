@@ -28,7 +28,29 @@ General conclusions: Full conclusion are contained in Project1.rmd, but below ar
 
 In total there are 2410 unique beers, and 558 breweries, containing 100 unique styles.  
 
-KNN and Naive bayes do an excellent job of classifying IPAs and Ales
+Median IBU for all 50 states =33.9, Median ABV=5.6%
+
+Top 10 States by Brewery
+Colorado -- 47
+California – 39
+Michigan -- 32
+Oregon -- 29
+Texas -- 28
+Pennsylvania -- 25
+Washington -- 23
+Massachusetts -- 23
+Indiana -- 22
+Wisconsin -- 20
+
+All beers have AVB: 0.10 - 12.80 
+
+50% of beers have an AVB =  5.0 - 6.7
+
+We imputed missing IBU and ABV data by taking average of each beer style and replacing missing values with the generated data per missing entry.
+
+KNN and Naive bayes do an excellent job of classifying IPAs and Ales.
+
+The highest IBU beer comes from Oregon, and the highest ABV comes from Colorado.  Max IBU=138, and max ABV=12.8%
 
 There is a clear relationship between IBU and ABV, and there is also a clear relationship between IBU and Style.
 
